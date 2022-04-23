@@ -1,6 +1,6 @@
 # WebTeknolojiProje
 
-Projemin amacı kendimi, memleketimi ve memleketimin kültürel miraslarını tanıtmak.
+Projemin amacı: Kendimi, memleketimi ve memleketimin kültürel miraslarını tanıtmak.
 Bu bağlamda projem için izlemem gereken adımları şu şekilde planladım.
 
 
