@@ -104,3 +104,16 @@ a.baslik:hover {
 h2 {
     text-align: center;
 }
+
+.resim {
+    margin: 0 auto;
+    display: block;
+    width: 75%;
+    height: auto;
+}
+
+.image {
+    padding: 1rem;
+    max-width: 100%;
+    height: auto;
+}
