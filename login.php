@@ -46,7 +46,7 @@
         <div style="font-size: large; padding: 1rem;">
             <label> <b>E-Mail :</b>  </label>
             <label><?php
-                    if (isset($_POST["email"]) && $_POST["email"] == "muhammad.sabir@ogr.sakarya.edu.tr")
+                    if (isset($_POST["email"]) && $_POST["email"] == "b211210351@ogr.sakarya.edu.tr")
                         echo $_POST["email"];
                     else
                         header("location: 7Login.html ")
